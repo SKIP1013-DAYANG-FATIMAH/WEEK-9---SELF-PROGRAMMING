@@ -1,0 +1,18 @@
+package selfProgramming;
+import java.util.Scanner;
+public class ArrayExercise1 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		String [] newArr = new String [5];
+		
+		int [] nums = {2,3,4,6,8,9};
+		
+		double[] nums2 = {23,6,8,90,76};
+		
+		int x = nums[4];
+		System.out.println(x);
+	}
+
+}
